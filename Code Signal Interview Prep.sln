@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Signal Interview Prep", "Code Signal Interview Prep\Code Signal Interview Prep.csproj", "{ADC4417B-645C-45B0-B8CC-1CAB6F7123D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC4417B-645C-45B0-B8CC-1CAB6F7123D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC4417B-645C-45B0-B8CC-1CAB6F7123D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC4417B-645C-45B0-B8CC-1CAB6F7123D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC4417B-645C-45B0-B8CC-1CAB6F7123D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568D592E-C1C8-4A24-A707-9BD6809B2F5C}
+	EndGlobalSection
+EndGlobal
